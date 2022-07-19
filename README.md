@@ -1,4 +1,4 @@
-# Flutter Love Qutoes
+# Flutter Love Quotes
 
 Github üzerinde yayınlanmış olan https://github.com/lukePeavey/quotable verisini kullanarak yapılan basit bir uygulama.
 
